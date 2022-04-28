@@ -15,6 +15,7 @@ realtime sunlight simulator for  your home.
 想到的就是，我的户型不太好，我想提前知道每个房间，一年四季，天晴下雨情况下的光照情况，基于实时的天气数据，纬度信息，太阳角度信息来显示房间内的光照情况。
 
 我的房子大概这样：
+
 ![image](https://user-images.githubusercontent.com/25808190/165762807-bbcac65b-4093-42c1-aaa6-e9dee38d5e3b.png)
 
 然后，户型信息大概这样：
